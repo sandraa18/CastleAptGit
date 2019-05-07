@@ -1,0 +1,12 @@
+.header {
+    position: relative;
+  background-color: #343a40;
+  background: url("../Images/mountain.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+.logo{
+  position: center;
+}
